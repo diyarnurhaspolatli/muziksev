@@ -1,0 +1,92 @@
+.nav-link {
+
+    color: black;
+}
+
+.w-100 {
+    height: 600px;
+}
+
+body {
+    background-image: url(../images/web-anasayfa1.jpg);
+    background-repeat: repeat;
+}
+
+.row {
+    margin: 0;
+}
+
+.sanatciresimleri {
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+}
+
+.resimler {
+    text-align: center;
+}
+
+.jumbotron {
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h3 {
+    font-weight: 900;
+}
+
+a {
+    color: black;
+}
+
+.aletler {
+    width: 200px;
+
+
+}
+
+.kutu {
+    border-style: solid double solid double;
+
+}
+
+.fa-facebook-square {
+    color: blue;
+    margin-right: 20px;
+}
+
+.fa-twitter {
+    color: aqua;
+}
+
+.fa-instagram {
+    color: palevioletred;
+    margin-right: 20px;
+}
+
+.aletler1 {
+    width: 400px;
+    height: 200px;
+}
+
+.carousel-caption {
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 35%;
+    padding-top: 50px;
+}
+
+
+.muzik-turleri-carousel {
+    height: 697px;
+}
+
+.notalar-img {
+    width: 100px;
+    height: 150px;
+    border-radius: 100%;
+}
